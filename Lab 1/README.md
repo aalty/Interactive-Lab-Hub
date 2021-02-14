@@ -68,12 +68,14 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
-Setting: Anyplace when people listen to music
-Players: It could be just one person or a group of people
-Activity: Listening to music and communicating with others based on the music playing at the moment
+Setting: Anyplace; When people listen to music
+Players: It could be just one person or a group of people with the device playing the music
+Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
+Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
+
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
