@@ -56,35 +56,21 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
-Setting: Anyplace; When people listen to music
 
-Players: It could be just one person or a group of people with the device playing the music
+- Setting: Anyplace; When people listen to music
 
-Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
+- Players: It could be just one person or a group of people with the device playing the music
 
-Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
+- Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
 
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+- Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
+
 **Include a picture of your storyboard here**
 ![Storyboard](https://github.com/aalty/Interactive-Lab-Hub/blob/Spring2021/Lab%201/StoryBoard.jpeg)
 
-
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
-customize the color
-love 
+Love the idea; How to determine the color for different music genre; Is it available for users to define their own color?
 
 ## Part B. Act out the Interaction
 
@@ -92,26 +78,29 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+The device showing a single color during the whole song seems much boring than it looks like on paper. The discussion of music doesn't last as I imagined, and I think that totally depends on the users.
+
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+They suggested that maybe I could allow users to define the color to introduce some customization factor, and also reduce the effort to label the color for each song. 
+
+That is a really interesting and plausible idea, but it depends on the interaction between one user and another. To be more specifically, what kind of thing they could exchange from each other, and that's mainly the design of daily mission should concern about.  
 
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
-## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+My experiennce using Tinkerbelle is pretty smooth without issues while several classmates did encouter problems.
 
+## Part D. Wizard the device
 **Include your first attempts at recording the set-up video here.**
 [Device Set-up](https://youtu.be/7UrgmnSbPIo)
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
+
 [Follow-up Work](https://youtu.be/dwVIZltNkaU)
 
 ## Part E. Costume the device
@@ -131,7 +120,7 @@ Think about the setting of the device: is the environment a place where the devi
 [Prototyped Interaction](https://youtu.be/MgcQRsj2Vcg)
 
 **Please indicate anyone you collaborated with on this Lab.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+Justin Liu, Ming-Chun (Jeff) Lu, Kae-Jer (Mike) Cho
 
 # Staging Interaction, Part 2 
 
