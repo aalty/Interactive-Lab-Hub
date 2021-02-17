@@ -69,8 +69,11 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 Setting: Anyplace; When people listen to music
+
 Players: It could be just one person or a group of people with the device playing the music
+
 Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
+
 Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
@@ -105,10 +108,11 @@ We invented this tool for this lab!
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
-
+![Device Set-up](https://youtu.be/7UrgmnSbPIo)
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
+![Follow-up Work](https://youtu.be/dwVIZltNkaU)
 
 ## Part E. Costume the device
 
@@ -124,6 +128,7 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
+![Prototyped Interaction](https://youtu.be/MgcQRsj2Vcg)
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
