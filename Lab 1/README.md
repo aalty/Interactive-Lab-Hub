@@ -118,9 +118,9 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
-<img src="sketch_1-1.png" alt="sketch_1-1" style="zoom:40%;" />
+<img src="sketch_1-1.PNG" alt="sketch_1-1" style="zoom:40%;" />
 
-<img src="sketch_1-2.png" alt="sketch_1-2" style="zoom:40%;" />
+<img src="sketch_1-2.PNG" alt="sketch_1-2" style="zoom:40%;" />
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
