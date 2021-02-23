@@ -183,9 +183,11 @@ After recieving feedbacks from my classmates, I summarized two critical factors 
 
 ## Part B. New Prototype
 
-## 
+## <img src="new_story.jpeg" alt="sketch_1-2" style="zoom:40%;" />
 
 ## Part C. New Record
+
+[New Design](https://youtube.com/playlist?list=PLTxzhR6qqsgwFvSefaQtDFRo98ani9Gra)
 
 ## Acknowledgement
 
