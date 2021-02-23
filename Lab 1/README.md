@@ -58,19 +58,26 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 **Describe your setting, players, activity and goals here.**
 
-- Setting: Anyplace; When people listen to music
-
-- Players: It could be just one person or a group of people with the device playing the music
-
-- Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
-
-- Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
+> Setting: Anyplace; When people listen to music
+>
+> 
+>
+> Players: It could be just one person or a group of people with the device playing the music
+>
+> 
+>
+> Activity: Listening to music and enjoying the light effect from the device. When there are multiple players, they could chat and commute according to the music playing at the moment, and have a great time together. The light color of the device will alter based on the music genre it plays.    
+>
+> 
+>
+> Goals: There are daily missions for each player to turn it player to a randomly assigned color. Players could simply find a song that belongs to the certain genre, or he/she could find a friend who has that color for help. In this way, player could explore more and more music while interacting with others at the same time.
 
 **Include a picture of your storyboard here**
-![Storyboard](https://github.com/aalty/Interactive-Lab-Hub/blob/Spring2021/Lab%201/StoryBoard.jpeg)
+<img src="StoryBoard.jpeg" alt="Storyboard" style="zoom:40%;" />
 
 **Summarize feedback you got here.**
-Love the idea; How to determine the color for different music genre; Is it available for users to define their own color?
+
+> Love the idea; How to determine the color for different music genre; Is it available for users to define their own color?
 
 ## Part B. Act out the Interaction
 
@@ -78,26 +85,26 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
-The device showing a single color during the whole song seems much boring than it looks like on paper. The discussion of music doesn't last as I imagined, and I think that totally depends on the users.
+> The device showing a single color during the whole song seems more boring than it looks like on paper. The discussion of music doesn't last as I imagined, and I think that totally depends on the users.
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
-They suggested that maybe I could allow users to define the color to introduce some customization factor, and also reduce the effort to label the color for each song. 
-
-That is a really interesting and plausible idea, but it depends on the interaction between one user and another. To be more specifically, what kind of thing they could exchange from each other, and that's mainly the design of daily mission should concern about.  
+> They suggested that maybe I could allow users to define the color to introduce some customization factor, and also reduce the effort to label the color for each song. 
+>
+> That is a really interesting and plausible idea, but it depends on the interaction between one user and another. To be more specifically, what kind of thing they could exchange from each other, and that's mainly the design of daily mission should concern about.  
 
 
 ## Part C. Prototype the device
 
 **Give us feedback on Tinkerbelle.**
 
-My experiennce using Tinkerbelle is pretty smooth without issues while several classmates did encouter problems.
+> My experiennce using Tinkerbelle is pretty smooth without issues while several classmates did encouter problems.
 
 ## Part D. Wizard the device
 **Include your first attempts at recording the set-up video here.**
 [Device Set-up](https://youtu.be/7UrgmnSbPIo)
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 
@@ -111,7 +118,15 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+<img src="sketch_1-1.png" alt="sketch_1-1" style="zoom:40%;" />
+
+<img src="sketch_1-2.png" alt="sketch_1-2" style="zoom:40%;" />
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+> Since this music player should be portable so that users could bring it out and interact with other users, I decided to design it as a headphone, which shows different colors on the LED lights attached around the entire device.
+>
+> In addition, the headphone could still play the music as a speaker by flip the headphone and lay it horizontally up. Meanwhile, it could switch back to a headphone just by putting it on again. The way to change between modes is pretty intuitive and simple!
 
 
 ## Part F. Record
@@ -133,6 +148,21 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+> Justin:
+>
+> - Guess for the scene: Some sort of music exploration and discovery social app?
+> - Feedback & Questions: Super creative! Could users determine the color by theirselves? If it's an app then does is support cross-platform?
+>
+> Jeff:
+>
+> - Guess for the scene: A device that helps developing a music-centered community? 
+> - Feedback: Great idea! Seems that it can be used as a start-up idea. What's the size of this device? That might influence the portability of this product.
+>
+> Mike: 
+>
+> - Guess for the scene: Is it a device that people can interact with music? like with different music genre would have different color? 
+> - Feedback & Questions: Interesting and an innovative way to build a music community! My question is that how do you detect the music genre? Do you want to achieve this by detecting the sounds or the beats?
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
@@ -141,3 +171,21 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 **Document everything here.**
+
+## Part A. New Plan: Your Music ID
+
+After recieving feedbacks from my classmates, I summarized two critical factors for my design: **Portability** and **Customization**.
+
+> 1. Portability:
+>    Since users will interact with others via this device, this device should be very portable in most scenarios. Hence, I redesigned the device as a headphone. Still it's not that convenient in several places, e.g. a crowded space, and when users is moving, due to its size. The size limitation comes for the speaker itself, thus I removed it directly in this new design. That is to say, the new version is only a music player, which users could play the music by connecting to the device from any of their earphones, headphones, or speakers via cables or wirlessly. In this way this device could get rid of the speaker, thus acquires much smaller size. Right now, I imagine it as a big as an ID card (see below).
+> 2. Customization
+>    There was only one interaction way in the original design solely based on color change of the light. However, it is too monotonous to intrigue users keep playing with others, not to mention the color is pre-determined by the system. Therefore, I enhance the customization feature in the new design, which uses the color of the device to indicate the user's music taste. In other words, this device will help users build their music profile by either showing different size of color blocks on the display to indicate the proportion of listening history between different music genres, a mixture of different colors according to the proportion. That's the reason why I name this device as a Music ID. Besides, it remains the function showing different color effects while playing differnt music, and also the sync mode playing the music fed by others' devices.
+
+## Part B. New Prototype
+
+## 
+
+## Part C. New Record
+
+## Acknowledgement
+
