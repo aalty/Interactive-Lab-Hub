@@ -172,22 +172,37 @@ Do last week’s assignment again, but this time:
 
 **Document everything here.**
 
-## Part A. New Plan: Your Music ID
+## Part A. New Plan: Music ID
 
 After recieving feedbacks from my classmates, I summarized two critical factors for my design: **Portability** and **Customization**.
 
 > 1. Portability:
->    Since users will interact with others via this device, this device should be very portable in most scenarios. Hence, I redesigned the device as a headphone. Still it's not that convenient in several places, e.g. a crowded space, and when users is moving, due to its size. The size limitation comes for the speaker itself, thus I removed it directly in this new design. That is to say, the new version is only a music player, which users could play the music by connecting to the device from any of their earphones, headphones, or speakers via cables or wirlessly. In this way this device could get rid of the speaker, thus acquires much smaller size. Right now, I imagine it as a big as an ID card (see below).
+>    Since users will interact with others via this device, this device should be very portable in most scenarios. Hence, I redesigned the device like a headphone. Still, it's not that convenient in several places, e.g., a crowded space, and when users are moving, due to its size. 
+>    
+>    The size limitation comes from the speaker itself, and thus I removed it directly in this new design. That is to say, the new version is only a music player, which users could listen to the music by connecting the device from any of their earphones, headphones, or speakers via cables or wirelessly. In this way, the new version could get rid of the speaker, thus acquires a much smaller size. Right now, I imagine it as big as an ID card (see below). 
 > 2. Customization
->    There was only one interaction way in the original design solely based on color change of the light. However, it is too monotonous to intrigue users keep playing with others, not to mention the color is pre-determined by the system. Therefore, I enhance the customization feature in the new design, which uses the color of the device to indicate the user's music taste. In other words, this device will help users build their music profile by either showing different size of color blocks on the display to indicate the proportion of listening history between different music genres, a mixture of different colors according to the proportion. That's the reason why I name this device as a Music ID. Besides, it remains the function showing different color effects while playing differnt music, and also the sync mode playing the music fed by others' devices.
+>    There was only one interaction way in the original design solely based on the light's color change. However, it is too monotonous to intrigue users to keep playing with others, not to mention the color is pre-determined by the system. Therefore, I enhance the customization feature in the new design, which uses the device's color to indicate the user's music taste. In other words, this device will help users build their music profile by showing either different sizes of color blocks on display to indicate the proportion of listening history between different music genres, a mixture of different colors according to the ratio. That's the reason why I name this device a Music ID. Besides, it remains the function showing different color effects while playing different music and the sync mode playing the music fed by others' devices.
 
 ## Part B. New Prototype
 
-## <img src="new_story.jpeg" alt="sketch_1-2" style="zoom:40%;" />
+#### Prototype the device
+
+![](./ID_prototype.png)
+
+#### Custome the device
+
+![](./ID_custom.png)
+
+#### Storyboard
+
+![](ID_storyboard.png)
 
 ## Part C. New Record
 
-[New Design](https://youtube.com/playlist?list=PLTxzhR6qqsgwFvSefaQtDFRo98ani9Gra)
+[Record Link](https://youtube.com/playlist?list=PLTxzhR6qqsgwFvSefaQtDFRo98ani9Gra)
 
 ## Acknowledgement
 
+> To create the latest version of the music ID, I would like to acknowledge my classmates, Justin, Jeff, and Mike, for providing good feedbacks to me, which made me realize the crucial elements in my product. 
+>
+> Besides, I also want to acknowledge the inspiration brought by [Bisiugroup](https://youtube.com/playlist?list=PLClMLjxDWU1-sHfRp_NTebYawyjvEroiE), one of my favorite bands from Taiwan. They designed a [musical instrument](https://www.zeczec.com/projects/KOL) that could generate music according to the light and attached it to their debut album. Once, Bisiugroup asked their audience to bring the instruments to the live concert, where the stage light is designed to interact with them. For example, the light would spot on different groups of people according to the song tempo with the changing brightness, thus producing different sounds from the listeners. This idea inspires me to come up with bringing the ID to attend concerts, not only for the interaction but for identification as well.
