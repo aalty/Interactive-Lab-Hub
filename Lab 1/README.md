@@ -187,15 +187,15 @@ After recieving feedbacks from my classmates, I summarized two critical factors 
 
 #### Prototype the device
 
-![](./ID_prototype.png)
+![](./ID_prototype.PNG)
 
 #### Custome the device
 
-![](./ID_custom.png)
+![](./ID_custom.PNG)
 
 #### Storyboard
 
-![](ID_storyboard.png)
+![](ID_storyboard.PNG)
 
 ## Part C. New Record
 
