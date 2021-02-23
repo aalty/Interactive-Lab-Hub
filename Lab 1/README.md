@@ -156,7 +156,7 @@ You will be assigned three partners from another group. Go to their github pages
 > Jeff:
 >
 > - Guess for the scene: A device that helps developing a music-centered community? 
-> - Feedback: Great idea! Seems that it can be used as a start-up idea. What's the size of this device? That might influence the portability of this product.
+> - Feedback: Great idea! Seems that it can be used as a start-up idea. What's the size of this device? That might influence the portability of this product.
 >
 > Mike: 
 >
