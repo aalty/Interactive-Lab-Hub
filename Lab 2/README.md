@@ -176,7 +176,7 @@ After that, git will ask you to login to your github account to upload.
 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-<img src="lab2.PNG" alt="Storyboard" style="zoom:20%;" />
+<img src="lab2.PNG" alt="Storyboard" width="400px"/>
 
 > I further the original design, which displays a traditional clock, by sketching lines in the background per second. Besides, each line will not disappear once it gets drawn, and I would like to show a sign about "Every second contributes to the final picture." 
 
