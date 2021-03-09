@@ -170,13 +170,13 @@ After that, git will ask you to login to your github account to upload.
 
 **Take a video of your PiClock.**
 
-> [Video](https://youtu.be/GgWs9x04u0g)
+> [Video](https://youtu.be/e6nCZGHuwp8)
 
 ## Part G. 
 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-<img src="lab2.PNG" alt="Storyboard" style="zoom:40%;" />
+<img src="lab2.PNG" alt="Storyboard" style="zoom:20%;" />
 
 > I further the original design, which displays a traditional clock, by sketching lines in the background per second. Besides, each line will not disappear once it gets drawn, and I would like to show a sign about "Every second contributes to the final picture." 
 
@@ -198,6 +198,6 @@ You are permitted (but not required) to work in groups and share a turn in; you 
 
 
 
-> [New video](https://youtu.be/e6nCZGHuwp8)
+> [New video](https://youtu.be/GgWs9x04u0g)
 
 
