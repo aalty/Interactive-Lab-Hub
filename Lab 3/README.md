@@ -1,4 +1,4 @@
-# You're a wizard, [Student Name Here]
+# You're a wizard, A.L.
 
 <img src="https://pbs.twimg.com/media/Cen7qkHWIAAdKsB.jpg" height="400">
 
@@ -67,6 +67,8 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 ## Prep for Part 2
 
 1. Sketch ideas for what you'll work on in lab on Wednesday.
+
+![Decide for me](./Fig1.PNG)
 
 ## Share your idea sketches with Zoom Room mates and get feedback
 
