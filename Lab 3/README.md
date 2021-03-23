@@ -74,6 +74,10 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 
 *what was the feedback? Who did it come from?*
 
+> Feedback from Cheng-Wei and Renzhi
+>
+> They thought it's a very useful idea since all of us facing various decisions in our daily lives. To avoid decision fatigue, Decide For Me could really help people. Even though the selections are made in random, it's still valid because we usually are good with either and just need some nudges.
+
 ## Prototype your system
 
 The system should:
@@ -83,7 +87,15 @@ The system should:
 
 *Document how the system works*
 
+> Recognize the keyword "OR"
+>
+> Group the words before and after the "OR"
+>
+> Randomly select one of the two groups
+
 *Include videos or screencaptures of both the system and the controller.*
+
+[Decide for me!](https://www.youtube.com/watch?v=QvLJ8aNZIcQ)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -91,18 +103,20 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-*your answer here*
+> The system recognizes words decently but sometimes still fails.
 
 ### What worked well about the controller and what didn't?
 
-*your answer here*
+> If controller means something like the webpage in the example, I think there is no controller in my setup. In general, the controller is the person talking to the device, and this part works well once participants know the rule and include the keyword "OR" in their questions.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-*your answer here*
+> - Try different models to improve the recognition and also support different languages
+>
+> - To enhance user's confidence in the decision, maybe this device should remain the same answer for the same decision for a fixed time period 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-*your answer here*
+> I expect it would be really interesting to collect a database of the most frequently asked questions in people's lives. Other sensing modalities could include temperature monitoring for both human bodies and weather outside so that the device could suggest a wiser selection regarding clothes or food.
 
