@@ -76,7 +76,7 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 
 > Feedback from Cheng-Wei and Renzhi
 >
-> They thought it's a very useful idea since all of us facing various decisions in our daily lives. To avoid decision fatigue, Decide For Me could really help people. Even though the selections are made in random, it's still valid because we usually are good with either and just need some nudges.
+> They thought it's a very useful idea since all of us facing various decisions in our daily lives. To avoid decision fatigue, Decide For Me could really help people. Even though the selections are random, it's still valid because we usually are good with either and just need a nudge.
 
 ## Prototype your system
 
