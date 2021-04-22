@@ -127,12 +127,28 @@ Here is an example:
 
 
 Make a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
- 
+
 **a. Document the design for your paper display.** (e.g. if you had to make it again from scratch, what information would you need?). Include interim iterations (or at least tell us about them).
+
+My design is a smart food container. Inside this container, there are several blocks to store different food and, the smart system embedded inside will record the kinds and amount of the food, and most importantly it will suggest an appropriate dish based on the stored items!
+
+So basically, we need 
+
+1. A large box to contain all foods
+2. A suitable lid to cover the box compactly
+3. Multiple plates as dividers to separate different item
+4. A smart detector to recognize the food
+5. A display showing the suggested dish name 
+
+
 
 **b. Make a video of your paper display in action.**
 
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+It could be in various sizes or forms to meet different scenarios. However, considering portability, maybe a square shape is ideal for users to stack multiple containers in their bags. Since the primary function is to recommend a dish to a user, the display must be clear and big enough to provide a better user experience.
+
+
 
 ### Part D
 ### Materiality
