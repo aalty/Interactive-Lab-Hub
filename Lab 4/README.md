@@ -159,7 +159,11 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 
 **a. document the material prototype.** Include candidates that were considered even if they were set aside later.
 
+For now, I use cardboard for the prototype, but in my design of the actual product, the ideal material will be the glass as usual Tupperware. Talking about the material here, the most critical concern is its safety regarding keeping foods. Besides glass, the options also include plastic, metal, or ceramic.
+
 **b. explain the selection.**
+
+I select glass as the ideal materiality based on its safety, durability, and also accessibility. Additionally, even though there might be other suitable materials but to promote the product, I think it would be better to have something more familiar to the customers. 
 
 ### Part 2.
 
