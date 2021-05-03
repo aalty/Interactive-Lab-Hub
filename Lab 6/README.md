@@ -87,10 +87,21 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **1. Explain your design** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+> In this lab, I designed an IoT sensor to detect the usage of daily goods, for example, tissue paper, salt, and pepper, etc. It's very common that we couldn't know an item is running out until we find it's the last of it. That's where my design comes in. Basically, I use the weight to measure the usage and indicate the approximate remaining percentage. The detailed architecture will be explained in the next part. In summary, this design becomes helpful, especially when we couldn't easily observe the quantity because the container isn't transparent. Besides, even if we might not know the net weight of the goods inside, the weight percentage is enough to buy the supplement in time once there is a particular drop.
+
 **2. Diagram the architecture of the system.** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+![architecture](imgs/Architecture.png)
 
 **3. Build a working prototype of the system.** Do think about the user interface: if someone encountered these bananas, would they know how to interact with them? Should they know what to expect?
 
+![prototype](./imgs/Prototype.png)
+
+> I think it's intuitive for the user to put something onto the load cell in this prototype setup. However, they might have no idea what to expect after the placement, so it could be better to attach a QR code that leads them to the MQTT portal to see the item's weight, on the PI, or anywhere clear for them.
+
 **4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
+[![](http://img.youtube.com/vi/WmRKPyHV9iQ/0.jpg)](http://www.youtube.com/watch?v=WmRKPyHV9iQ "Demo")
+
 **5. BONUS (Wendy didn't approve this so you should probably ignore it)** get the whole class to run your code and make your distributed system BIGGER.
+
