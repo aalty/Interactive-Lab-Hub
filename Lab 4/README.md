@@ -117,7 +117,7 @@ It holds a pi and usb power supply, and provides a front stage on which to put w
 This design can be made by scoring a long strip of corrugated cardboard of width X, with the following measurements:
 
 | Y height of box <br> <sub><sup>- thickness of cardboard</sup></sub> | Z  depth of box <br><sub><sup>- thickness of cardboard</sup></sub> | Y height of box  | Z  depth of box | H height of faceplate <br><sub><sup>* * * * * (don't make this too short) * * * * *</sup></sub>|
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- |
 
 Fold the first flap of the strip so that it sits flush against the back of the face plate, and tape, velcro or hot glue it in place. This will make a H x X interface, with a box of Z x X footprint (which you can adapt to the things you want to put in the box) and a height Y in the back. 
 
@@ -130,23 +130,25 @@ Make a paper display for your project that communicates the state of the Pi and 
 
 **a. Document the design for your paper display.** (e.g. if you had to make it again from scratch, what information would you need?). Include interim iterations (or at least tell us about them).
 
-My design is a smart food container. Inside this container, there are several blocks to store different food and, the smart system embedded inside will record the kinds and amount of the food, and most importantly it will suggest an appropriate dish based on the stored items!
-
-So basically, we need 
-
-1. A large box to contain all foods
-2. A suitable lid to cover the box compactly
-3. Multiple plates as dividers to separate different item
-4. A smart detector to recognize the food
-5. A display showing the suggested dish name 
+> My design is a smart food container. Inside this container, there are several blocks to store different food, and the smart system embedded inside will record the kinds and amount of the food, and most importantly it will suggest an appropriate dish based on the stored items!
+>
+> So basically, we need 
+>
+> 1. A large box to contain all foods
+> 2. A suitable lid to cover the box compactly
+> 3. Multiple plates as dividers to separate different item
+> 4. A smart detector to recognize the food
+> 5. A display showing the suggested dish name 
 
 
 
 **b. Make a video of your paper display in action.**
 
+[![Paper Display](http://img.youtube.com/vi/3eKUCrKcFbg/0.jpg)](http://www.youtube.com/watch?v=3eKUCrKcFbg "Paper Display")
+
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
-It could be in various sizes or forms to meet different scenarios. However, considering portability, maybe a square shape is ideal for users to stack multiple containers in their bags. Since the primary function is to recommend a dish to a user, the display must be clear and big enough to provide a better user experience.
+> It could be in various sizes or forms to meet different scenarios. However, considering portability, maybe a square shape is ideal for users to stack multiple containers in their bags. Since the primary function is to recommend a dish to a user, the display must be clear and big enough to provide a better user experience.
 
 
 
@@ -159,11 +161,11 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 
 **a. document the material prototype.** Include candidates that were considered even if they were set aside later.
 
-For now, I use cardboard for the prototype, but in my design of the actual product, the ideal material will be the glass as usual Tupperware. Talking about the material here, the most critical concern is its safety regarding keeping foods. Besides glass, the options also include plastic, metal, or ceramic.
+> For now, I use cardboard for the prototype, but in my design of the actual product, the ideal material will be the glass as usual Tupperware. Talking about the material here, the most critical concern is its safety regarding keeping foods. Besides glass, the options also include plastic, metal, or ceramic.
 
 **b. explain the selection.**
 
-I select glass as the ideal materiality based on its safety, durability, and also accessibility. Additionally, even though there might be other suitable materials but to promote the product, I think it would be better to have something more familiar to the customers. 
+> I select glass as the ideal materiality based on its safety, durability, and also accessibility. Additionally, even though there might be other suitable materials but to promote the product, I think it would be better to have something more familiar to the customers. 
 
 ### Part 2.
 
@@ -172,9 +174,28 @@ Following exploration and reflection from Part 1, complete the "looks like," "wo
 Reiterating:
 ### Deliverables for this lab are: 
 1. Sketches/photos of device designs
-1. "Looks like" prototypes: show us what how the device should look, feel, sit, weigh, etc.
-3. "Works like" prototypes: show us what the device can do
-4. "Acts like" prototypes: videos/storyboards/other means of showing how a person would interact with the device
-5. Submit these in the lab 4 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same for each person in the group.
 
+   ![design1](./imgs/IMG_2669.png)
+
+   ![design1](./imgs/IMG_2670.png)
+
+   ![design1](./imgs/IMG_2671.png)
+
+2. "Looks like" prototypes: show us what how the device should look, feel, sit, weigh, etc.
+
+   ![looks1](./imgs/IMG_2672.png)
+
+   ![looks1](./imgs/IMG_2673.png)
+
+3. "Works like" prototypes: show us what the device can do
+
+   ![works1](./imgs/IMG_2676.png)
+
+   ![works1](./imgs/IMG_2674.png)
+
+4. "Acts like" prototypes: videos/storyboards/other means of showing how a person would interact with the device
+
+   [![Demo](http://img.youtube.com/vi/sZzHSJC2oeg/0.jpg)](http://www.youtube.com/watch?v=sZzHSJC2oeg "Demo")
+
+5. Submit these in the lab 4 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same for each person in the group.
 
