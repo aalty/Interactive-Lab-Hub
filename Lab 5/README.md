@@ -121,6 +121,12 @@ This can be as simple as the boat detector earlier.
 Try out different interactions outputs and inputs.
 **Describe and detail the interaction, as well as your experimentation.**
 
+> In this lab, I constructed a detection system for users' emotions by Google's Teachable machines. To be more specific, this is a tool to capture people's reactions while listening to a song or a speech. Based on this, the experiment requires users to open the webcam and play their favored playlist or podcast for at least 20 mins. During this term, they could do anything they would like to, for example, sing with the music or study along with the radio. The expected of the experiment will be the facial expression from users corresponding to the audio input.
+>
+> Our model includes five emotion categories: Intense, Pleasant, Melancholy, Peaceful, and Engaging. After collecting data from participants, we could label the audio they listened to by one of these emotions.  **As a result, we aim to build an easy way to assess people's reactions corresponding to any kind of audio input.**
+>
+> The motivation behind this is that the current emotion dataset for songs is mainly based on the music analysis, namely the melody or tempo. However, it's not convincing since the emotion data doesn't come from actual reactions by the audience. Furthermore, when musicians desire to know the exact feelings of listeners, they usually find it's obscured by solely reading the comments. As a solution, we could embed this system into any music or video streaming platforms, enabling creators to collect real user data or form a more accurate emotion database.
+
 ### Part C
 ### Test the interaction prototype
 
@@ -132,17 +138,35 @@ For example:
 1. When it fails, why does it fail?
 1. Based on the behavior you have seen, what other scenarios could cause problems?
 
+> When the webcam is on, the system will classify the user's facial expression corresponding to the five emotions per frame. Accordingly, there are five bars in the display showing the likelihood in percentage for each emotion that the model determines the user belongs to.
+>
+> Since the current model had been trained for only a short time, the structure hasn't been optimized, so it bears unstable performance. As a result, there are chances that the trained model assigns an incorrect label to the user's images. By incorrect, it means when the user shows the exact same facial expression, the model couldn't indicate the same emotion as the actual category.
+>
+> The possible reason behind this might reside in the training dataset. So far, there are around 240 images for each category, so the increases in the number of samples are expected. Besides, the quality of the data might also generate some uncertainties. Particularly, when the sample image for different categories looks much alike, it confuses the model while trying to learn a way to distinguish during the training phase.
+>
+> Moreover, because of the observed inaccuracy of the system, it's reasonable to doubt that when the user's environment changes, for example, the background or the brightness, the accuracy might drop even worse. In addition, once there are items blocking the user's face, or the image doesn't cover the whole face, the model will not function properly either.        
+
 **Think about someone using the system. Describe how you think this will work.**
+
 1. Are they aware of the uncertainties in the system?
 1. How bad would they be impacted by a miss classification?
 1. How could change your interactive system to address this?
 1. Are there optimizations you can try to do on your sense-making algorithm.
+
+> It is possible that users will be aware of the inconsistency or the inaccuracy of the system once the output category doesn't match their real feelings. Ideally, they won't be affected by the misclassification since they might be doing other stuff instead of paying attention to the system output. Even though they notice the unexpected return from the model, it's totally fine for them to ignore it and keep acting naturally.
+>
+> However, in the worst case, participants get confused by the misclassification and possibly try to behave according to the model output in return. This interaction is actually the worst since it biased the user's behavior, which conflicts with the original system design. In other words, we only expect to observe people's reactions but not influence their actions.
+>
+> To address this issue, one way is to improve accuracy by increasing the variance in the training dataset, for example, to include images from different people with different backgrounds, or of varying brightness. By doing so, the model will gain the capability to accommodate more various scenarios and produce accurate classifications.
+>
+> Regarding the sense-making algorithm, one improvement could be generalizing the category a bit, for example, having broader emotion categories such as happy, angry, and sad. There are two advantages; first of all, it will be easier for the model to distinguish between different emotions. Secondly, the output could describe people's feelings at a higher level, which in other words, leads to less confusion of users.
 
 ### Part D
 ### Characterize your own Observant system
 
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
+
 * What can you use X for?
 * What is a good environment for X?
 * What is a bad environment for X?
